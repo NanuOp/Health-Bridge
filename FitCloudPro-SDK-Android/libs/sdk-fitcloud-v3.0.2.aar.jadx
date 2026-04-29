@@ -1,0 +1,59 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "sdk-fitcloud-v3.0.2.aar"
+  ],
+  "treeExpansionsV2": [
+    "c:com.topstep.fitcloud.sdk.internal.ability.base.c",
+    "c:com.topstep.fitcloud.sdk.internal.ability.base.b",
+    "p:com.topstep.fitcloud.sdk.v2.protocol.data.decode",
+    "c:com.topstep.fitcloud.sdk.apis.ability.config.FcFunctionAbility",
+    "p:com.topstep.fitcloud.sdk.v2.model.data",
+    "c:com.topstep.fitcloud.sdk.apis.ability.data.FcSportAbility",
+    "p:com.topstep.fitcloud.sdk.internal.ability.spec",
+    "p:com.topstep.fitcloud.sdk.internal.ability.config",
+    "p:com.topstep.fitcloud.sdk.apis.ability.file",
+    "p:com.topstep.fitcloud.sdk.apis.ability.base",
+    "p:com.topstep.fitcloud.sdk.internal.connection",
+    "p:com.topstep.fitcloud.sdk.model.data",
+    "p:com.topstep.fitcloud.sdk.model.file",
+    "p:com.topstep.fitcloud.sdk.v2.features",
+    "p:com.topstep.fitcloud.sdk.apis.ability.spec",
+    "p:com.topstep.fitcloud.sdk.exception",
+    "t:JInputs//JInputFiles"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.topstep.fitcloud.sdk.v2.protocol.data.b",
+      "subPath": "java",
+      "caret": 403,
+      "view": {
+        "x": 0,
+        "y": 810
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/shivprasad/.var/app/com.github.skylot.jadx/cache/jadx/projects/sdk-fitcloud-v3.0.2-9def469bcb23bc43479c682f01172c00",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "protocol.data.decode",
+    "com.topstep.fitcloud.sdk.v2.protocol.data.decode.r",
+    "new Fcheartrate",
+    "heartrate",
+    "new Fcstep",
+    "FcStepdata"
+  ],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
