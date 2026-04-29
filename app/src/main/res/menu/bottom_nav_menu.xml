@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_sleep"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="Sleep" />
+    <item
+        android:id="@+id/nav_recovery"
+        android:icon="@android:drawable/ic_menu_zoom"
+        android:title="Vitals" />
+    <item
+        android:id="@+id/nav_workout"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Workout" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="More" />
+</menu>

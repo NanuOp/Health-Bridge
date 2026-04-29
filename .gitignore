@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
+out.txt
+build_log.txt
+
+# SDK git folder
+FitCloudPro-SDK-Android/.git

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bg_dark">#070711</color>
+    <color name="surface_dark">#0F0F1E</color>
+    <color name="card_dark">#13131F</color>
+    <color name="card_border">#1E1E35</color>
+    
+    <color name="accent_green">#00FF88</color>
+    <color name="accent_blue">#00D4FF</color>
+    <color name="accent_purple">#7B61FF</color>
+    
+    <color name="warning">#FF6B35</color>
+    <color name="danger">#FF3B5C</color>
+    
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8888AA</color>
+    
+    <!-- Sleep Stages -->
+    <color name="sleep_deep">#7B61FF</color>
+    <color name="sleep_rem">#00D4FF</color>
+    <color name="sleep_light">#4466FF</color>
+    <color name="sleep_awake">#FF3B5C</color>
+
+    <!-- Navigation -->
+    <color name="nav_bg">#0F0F1E</color>
+    <color name="nav_indicator">#3300FF88</color> <!-- 20% Opacity -->
+</resources>

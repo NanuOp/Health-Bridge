@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthBridge</string>
+    <string name="notification_channel_name">Health Sync</string>
+    <string name="notification_channel_desc">Background health data sync from watch</string>
+</resources>
